@@ -30,7 +30,6 @@ def user(name):
     return render_template("user.html", user_name=name)
 
 # Create Custom Error Pages
-
 # Invalid URL
 @app.errorhandler(404)
 def page_not_found(e):
