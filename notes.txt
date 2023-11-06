@@ -15,3 +15,6 @@ Turn Debug mode: ON; allows dev server to update to changes
 
 Generate SSH key for version control (macOS)
 - 'ssh-keygen -t rsa'
+
+Initializing Git For Version Control
+- 'codemy.com/git'
