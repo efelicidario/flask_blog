@@ -18,3 +18,9 @@ Generate SSH key for version control (macOS)
 
 Initializing Git For Version Control
 - 'codemy.com/git'
+
+Flask Friday #10 - 'pip install mysql connectors' part
+- instead of installing all 3 packages (pip3 install mysql-connector:mysql-connector-python:mysql-connector-python-rf)
+- install ONLY mysql-connector-python package and uninstall other 2
+
+Try Import Databse From Python3 Shell
